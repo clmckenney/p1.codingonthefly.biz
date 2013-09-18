@@ -25,10 +25,15 @@
   </head>
   <body>
 <h1>Welcome to Chuck McKenney's P1</h1>
-
-<p>Hi! I'm currently working as the Communications Manager for the Center for International Development at Harvard University. I have nearly 20 years experience working in broadcast, digital and print communications and have worked for academic, media, corporate, and nonprofit organizations. I spent nearly a decade producing television news programs for WBZ-TV in Boston. I'm proud of my work at the Live Free or Die Alliance - a NH nonprofit organization dedicated to promoting civic engagement - where I helped launch a comprehensive database of hundreds of elected officials. I aslo 'moonlight' as a sports blogger. I call New Hampshire home and chase around my two young sons.</p>
-
+<table width="600" cellspacing="1" cellpadding="1" border="0">
+    <tbody>
+        <tr>
+            <td>
+<p>Hi! I'm currently working as the Communications Manager for the Center for International Development at Harvard University. I have nearly 20 years experience working in broadcast, digital and print communications and have worked for academic, media, corporate, and nonprofit organizations. I spent nearly a decade producing television news programs for WBZ-TV in Boston. I'm proud of my work at the Live Free or Die Alliance - a NH nonprofit organization dedicated to promoting civic engagement - where I helped launch a comprehensive database of hundreds of elected officials. I also 'moonlight' as a sports blogger. I call New Hampshire home and chase around my two young sons.</p>
 <p>HMTL Editor of choice: Coffee Cup Free (Yes, I'm cheap)</p>
-
+</td>
+</tr>
+</tbody>
+</table>
   </body>
 </html>
